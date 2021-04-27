@@ -120,4 +120,6 @@ jupyter:
 
 ![center](https://github.com/fawazsiddiqi/carekit-hyperprotect-lab/blob/main/images/slide_images/Slide27.png?raw=true)
 
++++ {"slideshow": {"slide_type": "slide"}}
 
+![center](https://github.com/fawazsiddiqi/carekit-hyperprotect-lab/blob/main/images/slide_images/Slide28.png?raw=true)
